@@ -1,0 +1,182 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="LOCAL CH" tvg-id="trickflix/buko" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH]  BUKO
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/buko/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:2 group-title="LOCAL CH" tvg-id="trickflix/a2z" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] A2Z
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/a2z/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:3 group-title="LOCAL CH" tvg-id="trickflix/ancglobal" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] ANC_GLOBAL
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/ancglobal/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:4 group-title="LOCAL CH" tvg-id="trickflix/animalplanet" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] ANIMAL PLANET
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/animalplanet/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:5 group-title="LOCAL CH" tvg-id="trickflix/animax" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] ANIMAX
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/animax/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:6 group-title="LOCAL CH" tvg-id="trickflix/bilyonaryochannel" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] BILYONARYO CHANNEL
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/bilyonaryochannel/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:7 group-title="LOCAL CH" tvg-id="trickflix/boomberg" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] BOOMBERG
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/boomberg/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:8 group-title="LOCAL CH" tvg-id="trickflix/cartoonnetwork" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] CARTOON NETWORK
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/cartoonnetwork/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:9 group-title="LOCAL CH" tvg-id="trickflix/cctv4" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] CCTV_4
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/cctv4/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:10 group-title="LOCAL CH" tvg-id="trickflix/cgtn" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] CGTN
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/cgtn/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:11 group-title="LOCAL CH" tvg-id="trickflix/cinemaone" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] CINEMA_ONE
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/cinemaone/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:12 group-title="LOCAL CH" tvg-id="trickflix/cinemax" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] CINEMAX
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/cinemax/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:13 group-title="LOCAL CH" tvg-id="trickflix/cinemo" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] CINEMO
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/cinemo/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:14 group-title="LOCAL CH" tvg-id="trickflix/cna" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] CNA
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/cna/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:15 group-title="LOCAL CH" tvg-id="trickflix/crimeinvestigation" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] CRIME & INVESTIGATION
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/crimeinvestigation/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:16 group-title="LOCAL CH" tvg-id="trickflix/depedtv" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] DEPED_TV
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/depedtv/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:17 group-title="LOCAL CH" tvg-id="trickflix/test" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] DISCOVERY CHANNEL
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/test/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:18 group-title="LOCAL CH" tvg-id="trickflix/dreamworkstagalized" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] DREAMWORKS_TAGALIZED
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/dreamworkstagalized/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:19 group-title="LOCAL CH" tvg-id="trickflix/gmanews" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] GMA
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/gmanews/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:20 group-title="LOCAL CH" tvg-id="trickflix/gmalife" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] GMA_Life
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/gmalife/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:21 group-title="LOCAL CH" tvg-id="trickflix/gmapinoy" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] GMA_PINOY
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/gmapinoy/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:22 group-title="LOCAL CH" tvg-id="trickflix/hbohd" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] HBO_HD
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/hbohd/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:23 group-title="LOCAL CH" tvg-id="trickflix/hbohits" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] HBO_HITS
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/hbohits/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:24 group-title="LOCAL CH" tvg-id="trickflix/hbosignature" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] HBO_SIGNATURE
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/hbosignature/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:25 group-title="LOCAL CH" tvg-id="trickflix/hitsmovies" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] HITS_MOVIES
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/hitsmovies/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:26 group-title="LOCAL CH" tvg-id="trickflix/ibc13" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] IBC 13
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/ibc13/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:27 group-title="LOCAL CH" tvg-id="trickflix/sonuchannelhd" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] KAPAMILYA
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/sonuchannelhd/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:28 group-title="LOCAL CH" tvg-id="trickflix/kix" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] KIX
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/kix/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:29 group-title="LOCAL CH" tvg-id="trickflix/knowledgechannel" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] KNOWLEDGE_CHANNEL
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/knowledgechannel/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:30 group-title="LOCAL CH" tvg-id="trickflix/moonbugkids" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] MOONBUG_KIDS
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/moonbugkids/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:31 group-title="LOCAL CH" tvg-id="trickflix/morlive" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] MOR_LIVE
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/morlive/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:32 group-title="LOCAL CH" tvg-id="trickflix/mptv" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] MPTV
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/mptv/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:33 group-title="LOCAL CH" tvg-id="trickflix/myxph" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] MYX_PH
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/myxph/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:34 group-title="LOCAL CH" tvg-id="trickflix/newchannel" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] NEW_CHANNEL
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/newchannel/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:35 group-title="LOCAL CH" tvg-id="trickflix/nickjr" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] NICk JR
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/nickjr/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:36 group-title="LOCAL CH" tvg-id="trickflix/nickelodeon" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] NICKELODEON
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/nickelodeon/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:37 group-title="LOCAL CH" tvg-id="trickflix/onenews" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] ONE_NEWS
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/onenews/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:38 group-title="LOCAL CH" tvg-id="trickflix/oneph" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] ONE_PH
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/oneph/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:39 group-title="LOCAL CH" tvg-id="trickflix/onesports" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] ONE_SPORTS+
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/onesports/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:40 group-title="LOCAL CH" tvg-id="trickflix/onesportshd" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] ONE_SPORTS_HD
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/onesportshd/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:41 group-title="LOCAL CH" tvg-id="trickflix/pbarush" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] PBA_RUSH
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/pbarush/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:42 group-title="LOCAL CH" tvg-id="trickflix/pbbmain" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] PBB MAIN
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/pbbmain/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:43 group-title="LOCAL CH" tvg-id="trickflix/pbo" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] PBO
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/pbo/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:44 group-title="LOCAL CH" tvg-id="trickflix/premiersports" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] PREMIER SPORTS
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/premiersports/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:45 group-title="LOCAL CH" tvg-id="trickflix/ptv4" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] PTV_4
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/ptv4/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:46 group-title="LOCAL CH" tvg-id="trickflix/rptv" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] RPTV
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/rptv/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:47 group-title="LOCAL CH" tvg-id="trickflix/sarisari" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] SARI-SARI
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/sarisari/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:48 group-title="LOCAL CH" tvg-id="trickflix/tapsports" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] TAP_SPORTS
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/tapsports/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:49 group-title="LOCAL CH" tvg-id="trickflix/teleradioserbisyo" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] TELERADIO_SERBISYO
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/teleradioserbisyo/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:50 group-title="LOCAL CH" tvg-id="trickflix/tfc" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] TFC
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/tfc/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:51 group-title="LOCAL CH" tvg-id="trickflix/thrill" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] THRILL
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/thrill/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:52 group-title="LOCAL CH" tvg-id="trickflix/tmc" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] TMC
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/tmc/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:53 group-title="LOCAL CH" tvg-id="trickflix/truefmtv" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] TRUE_FM_TV
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/truefmtv/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:54 group-title="LOCAL CH" tvg-id="trickflix/tv5" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] TV5
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/tv5/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:55 group-title="LOCAL CH" tvg-id="trickflix/tvnhd" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] TVN_HD
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/tvnhd/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:56 group-title="LOCAL CH" tvg-id="trickflix/tvnmoviespino" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] tVN_MOVIES_PINOY
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/tvnmoviespino/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:57 group-title="LOCAL CH" tvg-id="trickflix/tvnmovies" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] TVNMOVIES
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/tvnmovies/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:58 group-title="LOCAL CH" tvg-id="trickflix/tvup" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] TVUP
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/tvup/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:59 group-title="LOCAL CH" tvg-id="trickflix/uaapvarsitychannel" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] UAAP_VARSITY_CHANNEL
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/uaapvarsitychannel/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+#EXTINF:60 group-title="LOCAL CH" tvg-id="trickflix/vivacinema" tvg-logo="" provider="LOCAL CH" provider-logo="" provider-type="iptv",[LOCAL CH] VIVACINEMA
+http://phcfrancis3.duckdns.org:1234/stream/trickflix/vivacinema/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
